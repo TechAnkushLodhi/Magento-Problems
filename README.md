@@ -6,3 +6,10 @@
 
 ### solution:- To resolve this issue, you can use the following module which addresses this specific problem:
 * Module link : https://github.com/DeployEcommerce/module-trojan-order-prevent
+
+* Screenshot
+** Order grid in admin
+![Order Grid](order-grid.png)
+
+** Order View in admin
+![Order View](order-view.png)
